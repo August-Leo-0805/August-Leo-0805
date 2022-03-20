@@ -14,7 +14,7 @@
 
 ## **📫 How to reach me ...**
 - E-mail : august_leo_0805@kakao.com
-- [Twitter](https://twitter.com/Dev_AugustLeo)
+- [Twitter](https://twitter.com/llleeo0421)
 
 <!---
 August-Leo-0805/August-Leo-0805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
