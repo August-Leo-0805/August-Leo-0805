@@ -1,4 +1,5 @@
-- **👋 Hi, I’m Leo([@August-Leo-0805](https://github.com/August-Leo-0805)) Kim**
+# **👋 Hi, I’m Leo([@August-Leo-0805](https://github.com/August-Leo-0805)) Kim**
+
 I'm a student, Korea high school.
 
 ## **📫 Contact me**
