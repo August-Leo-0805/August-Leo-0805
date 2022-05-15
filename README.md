@@ -1,4 +1,4 @@
-# **👋 Hi, I’m @August-Leo-0805**
+# **👋 Hi, I’m [@August-Leo-0805](https://github.com/August-Leo-0805)**
 
 ## **👀 I’m interested in ...**
 - Web development
@@ -13,7 +13,7 @@
 - Web Development
 
 ## **📫 How to reach me ...**
-- E-mail : august_leo_0805@kakao.com
+- E-mail : dev.augustleo@gmail.com
 - [Twitter](https://twitter.com/llleeo0421)
 
 <!---
