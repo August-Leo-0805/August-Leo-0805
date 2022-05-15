@@ -1,8 +1,8 @@
 - **👋 Hi, I’m Leo([@August-Leo-0805](https://github.com/August-Leo-0805)) Kim**
 I'm a student, Korea high school.
 
-📫 Contact me
-  - E-mail : dev.augustleo@gmail.com
+## **📫 Contact me**
+- E-mail : dev.augustleo@gmail.com
 
 ## **👀 I’m interested in ...**
 - Web development
@@ -36,11 +36,6 @@ I'm a student, Korea high school.
 - Linkedin : [augustleo](https://www.linkedin.com/in/augustleo/)
 - Twitter : [@llleeo0421](https://twitter.com/llleeo0421)
 - Youtube : [llleeo](https://www.youtube.com/channel/UCoHALWM5iYLzsrytWGbNCxg)
-
-## **📫 How to reach me ...**
-- E-mail : dev.augustleo@gmail.com
-- [Twitter](https://twitter.com/llleeo0421)
-- [Linkedin](https://www.linkedin.com/in/augustleo/)
 
 <!---
 August-Leo-0805/August-Leo-0805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
