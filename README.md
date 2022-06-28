@@ -17,18 +17,6 @@ I'm a student, Korea high school.
 - Data analysis related to speed cubing
 - Web Development
 
-## **👀 I’m interested in ...**
-- Web development
-- Cubing data analysis
-
-## **🌱 I’m currently learning ...**
-- C
-- Javascript
-
-## **💞️ I’m looking to collaborate on ...**
-- Data analysis related to speed cubing
-- Web Development
-
 ## **🧑‍💻 Web Site**
 - Asked : [llleeo](https://asked.kr/llleeo)
 - Blog : [날 찾아온 낯선 여행자](https://llleeo0421.tistory.com)
