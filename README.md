@@ -1,6 +1,6 @@
 # **👋 Hi, I’m Leo([@August-Leo-0805](https://github.com/August-Leo-0805)) Kim**
 
-I'm a student, Korea high school.
+I'm a studen
 
 ## **📫 Contact me**
 - E-mail : dev.augustleo@gmail.com
@@ -19,7 +19,6 @@ I'm a student, Korea high school.
 
 ## **🧑‍💻 Web Site**
 - Asked : [llleeo](https://asked.kr/llleeo)
-- Blog : [날 찾아온 낯선 여행자](https://llleeo0421.tistory.com)
 - GitHub : [@August-Leo-0805](https://github.com/August-Leo-0805)
 - Instagram : [@llleeo__](https://instagram.com/llleeo__)
 - Linkedin : [augustleo](https://www.linkedin.com/in/augustleo/)
